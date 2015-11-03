@@ -7,48 +7,47 @@ categories: shell
 
 ## A list of the shell commands I am learning
 
-```
-irb = interactive ruby
 
-ls = list
+`irb` = interactive ruby
 
-man = manual
+`ls` = list
 
-history
+`man` = manual
 
-cp = copy
+`history` = shows list of recent commands
 
-cd = change directory
+`cp` = copy
 
-mkdir = make directory
+`cd` = change directory
 
-mv = rename
+`mkdir` = make directory
 
-less = more
+`mv` = rename
 
-more = less
+`less` = display more
 
-cd .. = go back a directory
+`more` = display less
 
-cat = output file contents
+`cd ..` = go back a directory
 
-date
+`cat` = output file contents
 
-time
+`date`
 
-cal = calendar
+`time`
 
-rm = delete
+`cal` = calendar
 
-* = select all of file type
+`rm` = delete
 
-pwd = shows working directory
+`*` = select all of file type
 
-cd ~ = home directory
+`pwd` = shows working directory
 
-rm -Rf = remove recursive force. Deletes directory.
+`cd ~` = home directory
 
-touch = make empty file
+`rm -Rf` = remove recursive force. Deletes directory.
 
-ruby = runs file in Ruby
-```
+`touch` = make empty file
+
+`ruby` = runs file in Ruby
