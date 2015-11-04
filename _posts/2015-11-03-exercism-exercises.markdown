@@ -53,7 +53,7 @@ class Hamming
 end
 {% endhighlight %}
 
-Using `.upto`, the numbers would count up along the differences, into the differences value, from 0, to the appropriate number. The differences were coming up between the arguments' character values. As in, how many different values were there between, say (ABCAAA, ABCVSC). In the cases were the values were not equal such as in (AAA, ABCD) we had to call the `raise` `ArgumentError` command.
+Using `.upto`, the numbers would count up along the differences, into the differences value, from 0, to the appropriate number. The differences were coming up between the arguments' character values. As in, how many different values were there between, say (ABCAAA, ABCVSC). In the cases where the values were not equal such as in (AAA, ABCD) we had to call the `raise` `ArgumentError` command.
 
 * [Readme](http://exercism.io/exercises/ruby/hamming/readme)
 * [Test](http://exercism.io/exercises/ruby/hamming) 
